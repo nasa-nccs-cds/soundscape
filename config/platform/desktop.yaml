@@ -1,0 +1,2 @@
+data_dir:   "/Volumes/shared/data/audio"
+dataset:   "FSD50K"
