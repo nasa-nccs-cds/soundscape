@@ -9,7 +9,7 @@ def cfg() -> DictConfig:
 
 def configure(config_name: str, config_path=None):
     sys.tracebacklimit = 100
-    if config_path is None: config_path =  "../../config"
+    if config_path is None: config_path = "../../config"
     Configuration.init( config_name, config_path )
 
 class Configuration:
