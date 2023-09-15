@@ -1,10 +1,7 @@
-Soundscape
-===============================
+# soundscape
+Platform for experimentation with Machine Learning methods using audio data
 
-
-
-Conda Environment Setup
----------------
+### Conda Environment Setup
 
     >  conda create --name sscape -c conda-forge 
     >  conda activate sscape  
